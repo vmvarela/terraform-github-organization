@@ -1,5 +1,9 @@
 # Github Organization Terraform module
 
+new module!: https://github.com/vmvarela/terraform-github-org
+
+---
+
 Terraform module to manage GitHub organization settings, including teams, roles, and organization-wide repository configurations.
 
 These features of Github Organization configurations are supported:
